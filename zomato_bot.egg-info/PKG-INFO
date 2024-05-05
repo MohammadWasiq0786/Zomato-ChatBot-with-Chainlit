@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: zomato-bot
+Version: 0.0.1
+Author: sunny savita
+Author-email: sunny.savita@gmail.com
+Requires-Dist: chainlit
+Requires-Dist: notebook
+Requires-Dist: ipywidgets
+Requires-Dist: tqdm
+Requires-Dist: python-dotenv
+Requires-Dist: langchain-google-genai
